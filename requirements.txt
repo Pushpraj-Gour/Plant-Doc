@@ -1,6 +1,5 @@
 Pillow
 numpy<2.0.0
 pandas==1.4.3
-keras==2.12.0
 tensorflow==2.12.0
 streamlit
