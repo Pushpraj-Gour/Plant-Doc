@@ -1,0 +1,7 @@
+os
+json
+Pillow
+numpy
+tensorflow
+streamlit
+streamlit-option-menu
