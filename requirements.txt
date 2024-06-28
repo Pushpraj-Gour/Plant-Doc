@@ -1,4 +1,3 @@
-json
 Pillow
 numpy
 tensorflow
