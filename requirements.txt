@@ -1,4 +1,6 @@
-Pillow==9.2.0
-numpy==1.23.0
-tensorflow==2.9.1
-streamlit==1.14.0
+Pillow
+numpy
+pandas
+keras
+tensorflow
+streamlit
